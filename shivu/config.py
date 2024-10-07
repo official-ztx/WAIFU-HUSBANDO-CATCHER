@@ -2,18 +2,18 @@ class Config(object):
     LOGGER = True
 
     # Get this value from my.telegram.org/apps
-    OWNER_ID = "6765826972"
-    sudo_users = "6845325416", "6765826972"
-    GROUP_ID = -1002202172045
-    TOKEN = "6707490163:AAHZzqjm3rbEZsObRiNaT7DMtw_i5WPo_0o"
+    OWNER_ID = "7089408502"
+    sudo_users = "6845325416", "1647602447"
+    GROUP_ID = -1002210286036
+    TOKEN = "7564089592:AAH9w8KMHroJqxTFhWxJky1TKGCyVQWzxfg"
     mongo_url = "mongodb+srv://HaremDBBot:ThisIsPasswordForHaremDB@haremdb.swzjngj.mongodb.net/?retryWrites=true&w=majority"
-    PHOTO_URL = ["https://telegra.ph/file/b925c3985f0f325e62e17.jpg", "https://telegra.ph/file/4211fb191383d895dab9d.jpg"]
+    PHOTO_URL = ["https://files.catbox.moe/ofeqts.jpg"]
     SUPPORT_CHAT = "ANIME_CHAT_GROUP_ZTX"
     UPDATE_CHAT = "ZTX_ORG"
-    BOT_USERNAME = "Collect_Em_AllBot"
-    CHARA_CHANNEL_ID = "-1002202172045"
+    BOT_USERNAME = "Guess_Your_Character_bot"
+    CHARA_CHANNEL_ID = "-1002210286036"
     api_id = 26627014
-    api_hash = ""
+    api_hash = "1df5b09d720bb0174708e9077011c145"
 
     
 class Production(Config):
