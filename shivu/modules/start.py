@@ -34,13 +34,9 @@ async def start(update: Update, context: CallbackContext) -> None:
         
         
         caption = f"""
-        ***────「 ᴅᴇᴀʀ | {mention}  」────***
+        ***Hi User...***🥰
 
-***¤ ᴡᴇ ʜᴀᴠᴇ ɴᴏ ᴡᴀʏ ᴏꜰ ꜱᴇᴇɪɴɢ ᴀʟʟ ᴛʜᴇ ᴘᴏꜱꜱɪʙɪʟɪᴛɪᴇꜱ ᴛʜᴀᴛ ʟɪᴇ ᴀʜᴇᴀᴅ ɪɴ ᴛʜᴇ ꜰᴜᴛᴜʀᴇ, ꜱᴏ ᴡᴇ ʜᴀᴠᴇ ᴛᴏ ʀᴇʟʏ ᴏɴ ᴄʟᴜᴍꜱʏ ᴛʀɪᴀʟ-ᴀɴᴅ-ᴇʀʀᴏʀ ᴛᴏ ɢᴀɪɴ ᴋɴᴏᴡʟᴇᴅɢᴇ
-⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
-🌱 VERSION : 0.0.1
-⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
-⍟ ᴄʜᴇᴄᴋ ᴏᴜᴛ ᴍʏ ꜰᴀᴄɪʟɪᴛɪᴇꜱ ʙʏ ɢɪᴠᴇɴ ʙᴜᴛᴛᴏɴ ʙᴇʟᴏᴡ***
+***I am An Advance Anime Character Catcher Bot..​Kidnap Me in Your group.. And I will Spawn Random Characters After.. every 100 messages in Group... Use /guess to.. Collect that Characters in Your Collection.. and see Collection by using /Harem... So add in Your groups and Collect Your harem***
         """
         
         keyboard = [
@@ -94,13 +90,9 @@ async def button(update: Update, context: CallbackContext) -> None:
     elif query.data == 'back':
 
         caption = f"""
-        ***────「 ᴅᴇᴀʀ | {mention}  」────*** ✨
+        ***Hi User... *** ✨
 
-***¤ ᴡᴇ ʜᴀᴠᴇ ɴᴏ ᴡᴀʏ ᴏꜰ ꜱᴇᴇɪɴɢ ᴀʟʟ ᴛʜᴇ ᴘᴏꜱꜱɪʙɪʟɪᴛɪᴇꜱ ᴛʜᴀᴛ ʟɪᴇ ᴀʜᴇᴀᴅ ɪɴ ᴛʜᴇ ꜰᴜᴛᴜʀᴇ, ꜱᴏ ᴡᴇ ʜᴀᴠᴇ ᴛᴏ ʀᴇʟʏ ᴏɴ ᴄʟᴜᴍꜱʏ ᴛʀɪᴀʟ-ᴀɴᴅ-ᴇʀʀᴏʀ ᴛᴏ ɢᴀɪɴ ᴋɴᴏᴡʟᴇᴅɢᴇ
-⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
-🌱 VERSION : 0.0.1
-⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
-⍟ ᴄʜᴇᴄᴋ ᴏᴜᴛ ᴍʏ ꜰᴀᴄɪʟɪᴛɪᴇꜱ ʙʏ ɢɪᴠᴇɴ ʙᴜᴛᴛᴏɴ ʙᴇʟᴏᴡ***
+***I am An Advance Anime Character Catcher Bot..​Kidnap Me in Your group.. And I will Spawn Random Characters After.. every 100 messages in Group... Use /guess to.. Collect that Characters in Your Collection.. and see Collection by using /Harem... So add in Your groups and Collect Your harem***
         """
 
         
