@@ -12,8 +12,8 @@ class Config(object):
     UPDATE_CHAT = "ZTX_ORG"
     BOT_USERNAME = "Guess_Your_Character_bot"
     CHARA_CHANNEL_ID = "-1002210286036"
-    api_id = 26627014
-    api_hash = "1df5b09d720bb0174708e9077011c145"
+    api_id = 28928028
+    api_hash = "b097202e877124392f4851d215fa8f3a"
 
     
 class Production(Config):
