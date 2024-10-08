@@ -34,7 +34,7 @@ async def start(update: Update, context: CallbackContext) -> None:
         
         
         caption = f"""
-        ***────「 Dear | {mention} 」────***
+        ***────「 Dear | User 」────***
 
 ***¤ ᴡᴇ ʜᴀᴠᴇ ɴᴏ ᴡᴀʏ ᴏꜰ ꜱᴇᴇɪɴɢ ᴀʟʟ ᴛʜᴇ ᴘᴏꜱꜱɪʙɪʟɪᴛɪᴇꜱ ᴛʜᴀᴛ ʟɪᴇ ᴀʜᴇᴀᴅ ɪɴ ᴛʜᴇ ꜰᴜᴛᴜʀᴇ, ꜱᴏ ᴡᴇ ʜᴀᴠᴇ ᴛᴏ ʀᴇʟʏ ᴏɴ ᴄʟᴜᴍꜱʏ ᴛʀɪᴀʟ-ᴀɴᴅ-ᴇʀʀᴏʀ ᴛᴏ ɢᴀɪɴ ᴋɴᴏᴡʟᴇᴅɢᴇ
 ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
@@ -94,7 +94,7 @@ async def button(update: Update, context: CallbackContext) -> None:
     elif query.data == 'back':
 
         caption = f"""
-        ***Hi User... ────「 Dear | {mention} 」────*** ✨
+        ***Hi User... ────「 Dear | User 」────*** ✨
 
 ***¤ ᴡᴇ ʜᴀᴠᴇ ɴᴏ ᴡᴀʏ ᴏꜰ ꜱᴇᴇɪɴɢ ᴀʟʟ ᴛʜᴇ ᴘᴏꜱꜱɪʙɪʟɪᴛɪᴇꜱ ᴛʜᴀᴛ ʟɪᴇ ᴀʜᴇᴀᴅ ɪɴ ᴛʜᴇ ꜰᴜᴛᴜʀᴇ, ꜱᴏ ᴡᴇ ʜᴀᴠᴇ ᴛᴏ ʀᴇʟʏ ᴏɴ ᴄʟᴜᴍꜱʏ ᴛʀɪᴀʟ-ᴀɴᴅ-ᴇʀʀᴏʀ ᴛᴏ ɢᴀɪɴ ᴋɴᴏᴡʟᴇᴅɢᴇ
 ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
