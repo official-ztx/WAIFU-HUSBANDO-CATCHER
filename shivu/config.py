@@ -6,7 +6,7 @@ class Config(object):
     sudo_users = "6845325416", "1647602447"
     GROUP_ID = -1002210286036
     TOKEN = "7564089592:AAH9w8KMHroJqxTFhWxJky1TKGCyVQWzxfg"
-    mongo_url = "mongodb+srv://HaremDBBot:ThisIsPasswordForHaremDB@haremdb.swzjngj.mongodb.net/?retryWrites=true&w=majority"
+    mongo_url = "mongodb+srv://GOKU:MISSBHOPALI@goku.pzzsl8d.mongodb.net/?retryWrites=true&w=majority"
     PHOTO_URL = ["https://files.catbox.moe/ofeqts.jpg"]
     SUPPORT_CHAT = "ANIME_CHAT_GROUP_ZTX"
     UPDATE_CHAT = "ZTX_ORG"
