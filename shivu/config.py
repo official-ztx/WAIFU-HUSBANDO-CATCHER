@@ -6,8 +6,8 @@ class Config(object):
     sudo_users = "7757912959", "7038202445"
     GROUP_ID = -1002252184024
     TOKEN = "7297627525:AAGwV9BHee2Qisn4u12--4710r26OhHBWRk"
-    mongo_url = "mongodb+srv://GOKU:MISSBHOPALI@goku.pzzsl8d.mongodb.net/?retryWrites=true&w=majority"
-    PHOTO_URL = ["https://files.catbox.moe/ofeqts.jpg"]
+    mongo_url = "mongodb+srv://daspulin59:<db_password>@cluster0.twduf.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
+    PHOTO_URL = ["https://graph.org/file/34ce254537a31ca2a788b-f8b59bff546af8dc58.jpg"]
     SUPPORT_CHAT = "https://t.me/Anime_Group_India_Chat"
     UPDATE_CHAT = "https://t.me/Shorekeeper_updates"
     BOT_USERNAME = "HosinoXharembot"
