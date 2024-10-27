@@ -45,10 +45,10 @@ async def start(update: Update, context: CallbackContext) -> None:
         
         keyboard = [
             [InlineKeyboardButton("ADD TO GROUP", url=f'http://t.me/{BOT_USERNAME}?startgroup=new')],
-            [InlineKeyboardButton("MY GROUP", url=f'https://t.me/{SUPPORT_CHAT}'),
+            [InlineKeyboardButton("SUPPORT", url=f'https://t.me/{SUPPORT_CHAT}'),
             InlineKeyboardButton("UPDATES", url=f'https://t.me/{UPDATE_CHAT}')],
             [InlineKeyboardButton("COMMANDS", callback_data='help')],
-            [InlineKeyboardButton("SENPAI", url=f'https://t.me/OFFICIAL_ZTX')]
+            [InlineKeyboardButton("MUSIC BOT", url=f'https://t.me/ShorekeeperMusicbot')]
         ]
         reply_markup = InlineKeyboardMarkup(keyboard)
         photo_url = random.choice(PHOTO_URL)
@@ -59,10 +59,10 @@ async def start(update: Update, context: CallbackContext) -> None:
         photo_url = random.choice(PHOTO_URL)
         keyboard = [
             [InlineKeyboardButton("ADD TO GROUP", url=f'http://t.me/{BOT_USERNAME}?startgroup=new')],
-            [InlineKeyboardButton("MY GROUP", url=f'https://t.me/{SUPPORT_CHAT}'),
+            [InlineKeyboardButton("SUPPORT", url=f'https://t.me/{SUPPORT_CHAT}'),
             InlineKeyboardButton("UPDATES", url=f'https://t.me/{UPDATE_CHAT}')],
             [InlineKeyboardButton("COMMANDS", callback_data='help')],
-            [InlineKeyboardButton("SENPAI", url=f'https://t.me/OFFICIAL_ZTX')]
+            [InlineKeyboardButton("MUSIC BOT", url=f'https://t.me/ShorekeeperMusicbot')]
         ]
         
         reply_markup = InlineKeyboardMarkup(keyboard)
@@ -106,10 +106,10 @@ async def button(update: Update, context: CallbackContext) -> None:
         
         keyboard = [
             [InlineKeyboardButton("ADD TO GROUP", url=f'http://t.me/{BOT_USERNAME}?startgroup=new')],
-            [InlineKeyboardButton("MY GROUP", url=f'https://t.me/{SUPPORT_CHAT}'),
+            [InlineKeyboardButton("SUPPORT", url=f'https://t.me/{SUPPORT_CHAT}'),
             InlineKeyboardButton("UPDATES", url=f'https://t.me/{UPDATE_CHAT}')],
             [InlineKeyboardButton("COMMANDS", callback_data='help')],
-            [InlineKeyboardButton("SENPAI", url=f'https://github.com/MyNameIsShekhar/WAIFU-HUSBANDO-CATCHER')]
+            [InlineKeyboardButton("MUSIC BOT", url=f'https://t.me/ShorekeeperMusicbot')]
         ]
         reply_markup = InlineKeyboardMarkup(keyboard)
 
